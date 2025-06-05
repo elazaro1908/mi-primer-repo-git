@@ -6,3 +6,9 @@ tarea 1
 tarea2
 
 Tarea 3
+
+Tareas merge 1
+Tareas merge 2
+
+Mejora-tareas merge1
+Mejora-tareas merge2
