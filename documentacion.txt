@@ -1,0 +1,1 @@
+Este documento contiene los pasos para trabajar en ramas y subir a GitHub.
