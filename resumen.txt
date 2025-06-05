@@ -1,2 +1,5 @@
 jdnjsandjsn
 nuevo resumen 1
+nevo resumen 2
+nuevo resumen 3
+Hoy aprendí Git a nivel pro: ramas, merge, pull request, etc.
